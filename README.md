@@ -1,7 +1,6 @@
 # HelloReactNative
 Ứng dụng HelloWorld trong React Native
-<br />
-Mã nguồn HelloReactNative được sử dụng để thực hành tại [CodeGym](https://codegym.vn)
+
 
 # Mục tiêu bài tập
 - Cài đặt thành công Nodejs
@@ -51,4 +50,4 @@ Sau khi cài đặt xong, bạn chạy lệnh
 #### Bước 5: 
 Đón nhận kết quả từ màn hình mobile hoặc emulator
 
-![alt](https://github.com/anhtbok92/HelloReactNative/blob/master/img/react_native_hello_world.PNG)
+![alt](https://github.com/thanhcong051593/install-react-native/blob/master/33808953-04e3f0e8-ddef-11e7-96e0-9b6455bc2826.png)
